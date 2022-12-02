@@ -45,3 +45,4 @@ Problems Encountered
     Changing Dependencies Of Android Studio caused Immense Difficulty 😥
     Updating Gradle File 😟 and Version of Android Studio
 
+To download apk file directly click this -- [https://github.com/Monu-06/Monu-06/blob/main/MYCARE1.apk]
